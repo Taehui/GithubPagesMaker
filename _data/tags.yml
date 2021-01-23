@@ -1,0 +1,16 @@
+language :
+  name: language
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+platform :
+  name: platform
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+tips:
+  name: tips
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+cloud:
+  name: cloud
+  description: False
+  cover: assets/built/images/background-frontend.jpg
